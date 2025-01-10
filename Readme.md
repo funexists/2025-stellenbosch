@@ -9,7 +9,7 @@ In South Africa, [Loot](https://www.loot.co.za/product/the-little-typer/wxjk-551
 
 ## Schedule
 
-* 5 March: Introduction
+* 5 March: Introduction and Motivation (no homework)
 * 12 March: Discuss Chapter 1,2 and 3 + [Exercises from Chapter 3](./Chapter3.md)
 * 19 March: Discuss Chapter 4 and 5 + Exercises from Chapter [4](./Chapter4.md) and [5](./Chapter5.md)
 * 26 March: skip
