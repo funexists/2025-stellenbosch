@@ -1,4 +1,4 @@
-# A reading group at Stellenbosch in 2025 for the book: [The Little Typer](http://thelittletyper.com/)
+# [The Little Typer](http://thelittletyper.com/) reading group (Stellenbosch 5 March 2025) 
 
 * Join our [Discord](https://discord.gg/jPfjBAkEtV)
 * Visit our [Website](https://funexists.github.io/2025-stellenbosch/)
