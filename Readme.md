@@ -5,7 +5,7 @@
 
 ## Schedule
 
-Wednesdays at 18:00
+Wednesdays 18:00 - 20:00
 
 * 5 March: Introduction and Motivation (no homework)
 * 12 March: Discuss Chapter 1,2 and 3 + [Exercises from Chapter 3](./Chapter3.md)
