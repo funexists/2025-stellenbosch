@@ -3,11 +3,9 @@
 * Join our [Discord](https://discord.gg/jPfjBAkEtV)
 * Visit our [Website](https://funexists.github.io/2025-stellenbosch/)
 
-## Where to Get the Book
-
-In South Africa, [Loot](https://www.loot.co.za/product/the-little-typer/wxjk-5519-g050) seems to be the only online shop that has the book.
-
 ## Schedule
+
+Wednesdays at 18:00
 
 * 5 March: Introduction and Motivation (no homework)
 * 12 March: Discuss Chapter 1,2 and 3 + [Exercises from Chapter 3](./Chapter3.md)
