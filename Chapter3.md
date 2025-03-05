@@ -41,3 +41,24 @@ Nat. `gcd` evaluates to the greatest common divisor of the two passed arguments.
 <br>
 You might find this resource helpful: https://www.andrew.cmu.edu/user/kk3n/recursionclass/chap2.pdf.
 </details>
+
+## Exercise 6
+
+Correct the function in frame 73 to not always return 0, but to be factorial.
+
+```
+(claim step-fact
+  (-> Nat Nat
+    Nat))
+(define step-fact
+  (lambda (n-1 almost)
+    (* (add1 n-1) almost)))
+(claim fact
+  (-> Nat
+    Nat))
+(define fact
+  (lambda (n)
+    (rec-Nat n
+      0
+      step-fact)))
+```
