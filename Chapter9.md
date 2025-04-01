@@ -2,7 +2,7 @@
 
 Chapter 9's `replace` can be quite hard to grasp.
 Previous reading groups have also struggled to understand, see our [discussions here](https://github.com/awalterschulze/the-little-typer-exercises/files/9706444/Gmail.-.Session6.-.2019-02-19_.Summary.pdf).
-[Andrew Helwer](https://github.com/ahelwer) has written up a blog post as a [preamble to Chapter 9](https://ahelwer.ca/post/2022-10-13-little-typer-ch9/), that we would recommend reading before reading Chapter 9. 
+[Andrew Helwer](https://github.com/ahelwer) has written up a blog post as a [preamble to Chapter 9](https://ahelwer.ca/post/2022-10-13-little-typer-ch9/), that we would recommend reading before reading Chapter 9.
 
 ## Exercise 1
 
@@ -12,7 +12,7 @@ the resulting Lists are also equal,
 using `replace`, because this can also be done with cong,
 but we are trying to practice chapter 9's `replace`.
 
-```
+```pie
 (claim same-cons
   (Pi ((t U) (x t) (as (List t)) (bs (List t)))
     (-> (= (List t) as bs)
@@ -25,7 +25,7 @@ Define a function called `same-lists` that states and proves that
 if two values, `e1` and `e2`, are equal and two lists, `l1` and `l2` are
 equal then the two lists, `(:: e1 l1)` and `(:: e2 l2)` are also equal.
 
-```
+```pie
 (claim same-lists
   (Pi ((t U) (e1 t) (e2 t) (l1 (List t)) (l2 (List t)))
     (-> (= (List t) l1 l2) (= t e1 e2)
@@ -37,7 +37,7 @@ equal then the two lists, `(:: e1 l1)` and `(:: e2 l2)` are also equal.
 Define a function called `plus-comm` that states and proves that
 `+` is commutative
 
-```
+```pie
 (claim plus-comm
  (Pi ((n Nat) (m Nat))
    (= Nat (+ n m) (+ m n))))

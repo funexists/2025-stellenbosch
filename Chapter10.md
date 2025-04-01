@@ -15,7 +15,7 @@ In the following exercises we'll use the function called `<=` that takes two
 Nat arguments `a`, `b` and evaluates to a type representing the proposition
 that `a` is less than or equal to `b`.
 
-```
+```pie
 (claim <=
        (-> Nat Nat
            U))
@@ -42,7 +42,7 @@ NB: You may need to use `plus-assoc` that was proved in Exercise 8.3.
 Define a function called `<=-trans` that states and proves that `<=` is
 transitive.
 
-```
+```pie
 (claim <=-trans
        (Π ([a Nat]
            [b Nat]
@@ -58,7 +58,7 @@ Define a function called `length-filter-list` that states and proves that
 filtering a list (in the sense of `filter-list` from Exercise 5.3) evaluates
 to a a list no longer than the original list.
 
-```
+```pie
 (claim length-filter-list
   (Pi ((E U)
        (l (List E))

@@ -5,7 +5,7 @@
 Use `ind-Vec` to define a function called `unzip` that takes unzips
 a vector of pairs into a pair of vectors.
 
-```
+```pie
 (claim unzip
       (Π ([A U]
           [B U]

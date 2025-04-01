@@ -6,7 +6,8 @@ Extend the definitions of `kar` and `kdr` (frame 4.42) so they work with arbirar
 Pairs (instead of just for `Pair Nat Nat`).
 
 frame 4.42:
-```
+
+```pie
 (define kar
   (lambda (p)
     (elim-Pair

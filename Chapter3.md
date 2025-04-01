@@ -11,7 +11,7 @@ Note: The only Nat eliminator you should need in the body of `at-least-two?` is 
 
 Rewrite the definition of `+` (in frame 3.27) using the `rec-Nat` eliminator instead of the `iter-Nat` eliminator.
 
-```
+```pie
  (define step-+
    (lambda (sum-n-1)
      (add1 sum-n-1)))
@@ -46,7 +46,7 @@ You might find this resource helpful: https://www.andrew.cmu.edu/user/kk3n/recur
 
 Correct the function in frame 73 to not always return 0, but to be factorial.
 
-```
+```pie
 (claim step-fact
   (-> Nat Nat
     Nat))
