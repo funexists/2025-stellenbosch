@@ -15,7 +15,7 @@ Define a function called `a=b->a+n=b+n` that states and proves that
 Define a function called `plus-assoc` that states and proves that
 `+` is associative.
 
-```
+```pie
 (claim plus-assoc
  (Pi ((n Nat) (m Nat) (k Nat))
    (= Nat (+ k (+ n m)) (+ (+ k n) m))))
