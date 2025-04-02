@@ -9,7 +9,7 @@ the result of zipping the first and second arguments.
 ## Exercise 1
 
 Define a function called `append` that takes an argument of type `(Vec E m)` and an
-argument of type `(Vect E n)` and evaluates to a value of type `(Vec (+ m n))`, the
+argument of type `(Vec E n)` and evaluates to a value of type `(Vec (+ m n))`, the
 result of appending the elements of the second argument to the end of the first.
 
 ## Exercise 2
