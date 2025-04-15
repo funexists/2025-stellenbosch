@@ -44,3 +44,30 @@ Define a function called `plus-comm` that states and proves that
 ```
 
 Bonus: Write the solution using the [trans](https://docs.racket-lang.org/pie/index.html#%28def._%28%28lib._pie%2Fmain..rkt%29._trans%29%29) elimiator instead of the `replace` eliminator.
+
+## Exercise 4
+
+Define a function called `mul-assoc` that states and proves that `*` is associative.
+
+```
+(claim mul-assoc
+  (Pi ((x Nat) (y Nat) (z Nat))
+    (= Nat (* x (* y z)) (* (* x y) z))))
+```
+
+<details>
+<summary>Hint</summary>
+You need to use the right distributive law of multiplication over addition.
+
+```
+(claim mul-distrib-right
+  (Pi ((x Nat) (y Nat) (z Nat))
+    (= Nat (* (+ x y) z) (+ (* x z) (* y z)))))
+```
+
+<details><summary>Hint hint</summary>
+
+To prove `mul-distrib-right` you need to use `plus-assoc` from the chapter 8 exercises.
+
+</details>
+</details>
