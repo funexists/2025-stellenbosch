@@ -52,7 +52,7 @@ transitive.
               (<= a c))))
 ```
 
-## Exercise 3
+## Exercise 3 (Advanced)
 
 Define a function called `length-filter-list` that states and proves that
 filtering a list (in the sense of `filter-list` from Exercise 5.3) evaluates
