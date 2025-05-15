@@ -1,4 +1,4 @@
-# Answers
+# Answers
 
 This folder contains answers completed by attendees of the reading group.
 
