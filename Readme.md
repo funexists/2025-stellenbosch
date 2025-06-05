@@ -43,4 +43,5 @@ These exercises were lovingly created and curated by [Paul Cadman](https://githu
 * [Chapter 12](./Chapter12.md)
 * [Chapter 13](./Chapter13.md)
 * [Chapter 14](./Chapter14.md)
+* [Chapter 16](./Chapter16.md)
 
