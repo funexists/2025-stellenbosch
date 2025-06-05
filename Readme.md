@@ -1,4 +1,6 @@
-# [The Little Typer](http://thelittletyper.com/) reading group (Stellenbosch 5 March 2025) 
+# [The Little Typer](http://thelittletyper.com/) reading group (Stellenbosch 5 March 2025)
+
+**This reading group has been completed.**
 
 * Join our [Discord](https://discord.gg/jPfjBAkEtV)
 * Visit our [Website](https://funexists.github.io/2025-stellenbosch/)
